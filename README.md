@@ -1,4 +1,3 @@
-# N1kh1lKumar
 <!-- ========================================================= -->
 <!--                     NIKHIL KUMAR                           -->
 <!--                  GitHub Profile README                     -->
@@ -35,6 +34,7 @@ struct Developer {
 
     vector<string> interests = {
         "Backend Development",
+        "Competitive Programming",
         "Problem Solving",
         "Databases",
         "System Design",
@@ -73,6 +73,7 @@ Location          : India 🇮🇳
 
 Currently Learning:
 → Backend Development
+→ Competitive Programming
 → APIs
 → Databases
 → System Design
@@ -85,9 +86,11 @@ Goal:
 
 ### 💡 Interests
 
-`Backend Development` `Problem Solving`
+`Backend Development` `Competitive Programming`
 
-`Databases` `System Design` `Open Source`
+`Problem Solving` `Databases` `System Design`
+
+`Open Source`
 
 </td>
 </tr>
@@ -164,7 +167,11 @@ LONG TERM
 
 ---
 
-## 🧠 Problem Solving
+## 🏆 Competitive Programming & Problem Solving
+
+I am actively doing **Competitive Programming** to sharpen my DSA, algorithmic thinking, and ability to solve problems under constraints.
+
+I practice on platforms like **Codeforces, CodeChef, and LeetCode**, focusing on learning patterns and improving consistently rather than chasing numbers.
 
 ```cpp
 while (alive) {
@@ -181,27 +188,7 @@ while (alive) {
 }
 ```
 
-I practice **Data Structures & Algorithms** and competitive programming to improve my problem-solving ability and programming fundamentals.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=N1kh1lKumar&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1kh1lKumar&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=N1kh1lKumar&theme=tokyonight&hide_border=true" />
-
-</div>
+I practice **Data Structures & Algorithms** through competitive programming to improve my problem-solving ability and programming fundamentals.
 
 ---
 
