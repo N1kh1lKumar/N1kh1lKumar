@@ -104,21 +104,23 @@ Goal:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 ### Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+
 </div>
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -127,12 +129,14 @@ Goal:
 ```cpp
 learning = {
 
+    "Data Structures & Algorithms"
+    "Competitive Programming" 
     "Backend Development",
     "REST APIs",
     "Databases",
     "Server-side Programming",
     "System Design",
-    "Data Structures & Algorithms"
+   
 
 };
 ```
@@ -150,15 +154,13 @@ SHORT TERM
 └── Build real projects
 
 MID TERM
-├── Master APIs & databases
-├── Learn system design
-└── Contribute to open source
+├── Become a strong software engineer
+├── Master backend, APIs & databases
+└── Build production-ready projects
 
 LONG TERM
-├── Become a strong
-│   software engineer
-├── Build scalable systems
-└── Solve real problems
+├── Design & build scalable systems
+└── Solve meaningful real-world problems
 ```
 
 </td>
@@ -208,8 +210,8 @@ I practice **Data Structures & Algorithms** through competitive programming to i
 <img src="https://img.shields.io/badge/LeetCode-N1kh1lKumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="https://codolio.com/profile/N1kh1l">
-<img src="https://img.shields.io/badge/Codolio-Nikhil%20Kumar-7c3aed?style=for-the-badge" />
+<a href="https://codolio.com/profile/N1kh1lkumar">
+<img src="https://img.shields.io/badge/Codolio-NikhilKumar-7c3aed?style=for-the-badge" />
 </a>
 
 <a href="https://codeforces.com/profile/nikhilkumaraf309">
@@ -224,29 +226,7 @@ I practice **Data Structures & Algorithms** through competitive programming to i
 
 ---
 
-## 💭 Philosophy
-
 <div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║     "Discipline today builds the freedom             ║
-║                  of tomorrow."                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-### `Learn → Build → Break → Fix → Repeat`
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" width="100%"/>
-
 **Thanks for visiting my profile! ⭐**
 
 </div>
