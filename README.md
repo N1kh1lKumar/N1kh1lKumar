@@ -74,7 +74,7 @@ Location          : India 🇮🇳
 Currently Learning:
 → Backend Development
 → Competitive Programming
-→ APIs
+→ REST APIs
 → Databases
 → System Design
 → DSA
@@ -104,7 +104,7 @@ Goal:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" />
 
 ### Backend & Databases
 
