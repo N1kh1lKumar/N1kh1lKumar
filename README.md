@@ -1,232 +1,80 @@
-<!-- ========================================================= -->
-<!--                     NIKHIL KUMAR                           -->
-<!--                  GitHub Profile README                     -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=Hey%20there!%20👋&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Welcome%20to%20my%20GitHub&descSize=18&descColor=8b949e&descAlignY=68" width="100%"/>
+# Hi, I'm Nikhil Kumar 👋
+
+### Backend-focused developer building practical systems with Java and C++
+
+I am a B.Tech student from India focused on backend development, REST APIs,
+databases, system design, and problem solving. I enjoy turning concepts into
+working software and documenting what I learn along the way.
+
+<a href="https://www.linkedin.com/in/n1kh1lkumar/">LinkedIn</a> ·
+<a href="https://leetcode.com/u/N1kh1lKumar/">LeetCode</a> ·
+<a href="https://codeforces.com/profile/nikhilkumaraf309">Codeforces</a> ·
+<a href="https://www.codechef.com/users/n1kh1lkumar">CodeChef</a> ·
+<a href="https://codolio.com/profile/N1kh1lkumar">Codolio</a>
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-```cpp
-#include <iostream>
-#include <string>
-#include <vector>
+## What I am working on
 
-using namespace std;
+- Building backend applications with Java, Spring Boot, REST APIs, and PostgreSQL
+- Strengthening data structures, algorithms, and competitive programming fundamentals
+- Learning database design, authentication, caching, testing, and system design
+- Creating projects that demonstrate real features instead of isolated tutorials
 
-struct Developer {
+## Featured projects
 
-    string name = "Nikhil Kumar";
+| Project | What it demonstrates |
+| --- | --- |
+| [Switchly](https://github.com/N1kh1lKumar/Switchly-) | A multi-tenant feature flag platform with Java/Spring Boot, PostgreSQL, Redis, React, a client SDK, targeting, and a planned AWS deployment path |
+| [Post Service](https://github.com/N1kh1lKumar/Post-Service) | A REST API for CRUD operations backed by PostgreSQL, with documented endpoints and Postman testing |
+| [DSA using C++](https://github.com/N1kh1lKumar/DSA-USING-CPP-COLLEGE-) | Structured implementations of arrays, linked lists, trees, graphs, recursion, sorting, greedy algorithms, and dynamic programming |
+| [Cybersecurity Toolkit](https://github.com/N1kh1lKumar/CyberSecurity_toolkit) | A C++ toolkit for password analysis, secure password generation, classical ciphers, and encryption history |
 
-    string role =
-        "Aspiring Backend Developer";
+More projects: [CGPA Calculator](https://github.com/N1kh1lKumar/CGPA-calculator) ·
+[Sudoku Solver](https://github.com/N1kh1lKumar/Sudoku_Solver) ·
+[Banking System](https://github.com/N1kh1lKumar/Banking-System_Management) ·
+[Competitive Programming Journey](https://github.com/N1kh1lKumar/Competitive-Programming-journey)
 
-    string education =
-        "B.Tech (Pursuing)";
+## Technical toolkit
 
-    string location = "India";
+**Languages:** C, C++, Java, JavaScript, HTML, CSS<br>
+**Backend and data:** Spring Boot, REST APIs, PostgreSQL, MySQL<br>
+**Foundations:** Data structures, algorithms, OOP, file handling, database design<br>
+**Tools:** Git, GitHub, Linux, VS Code, Postman, Docker
 
-    vector<string> interests = {
-        "Backend Development",
-        "Competitive Programming",
-        "Problem Solving",
-        "Databases",
-        "System Design",
-        "Open Source"
-    };
+## Problem solving
 
-    string currently_learning =
-        "Backend Development";
-
-    string goal =
-        "Build scalable and real-world applications";
-};
-
-int main() {
-
-    Developer me;
-
-    cout << "Hello, World! 👋" << endl;
-    cout << "Welcome to my GitHub!" << endl;
-
-    return 0;
-}
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-## 👨‍💻 About Me
+I practice on [LeetCode](https://leetcode.com/u/N1kh1lKumar/),
+[Codeforces](https://codeforces.com/profile/nikhilkumaraf309), and
+[CodeChef](https://www.codechef.com/users/n1kh1lkumar) to improve algorithmic
+thinking and learn reusable problem-solving patterns.
 
 ```text
-Name              : Nikhil Kumar
-Role              : Aspiring Backend Developer
-Education         : B.Tech (Pursuing)
-Location          : India 🇮🇳
-
-Currently Learning:
-→ Backend Development
-→ Competitive Programming
-→ REST APIs
-→ Databases
-→ System Design
-→ DSA
-
-Goal:
-→ Build scalable and real-world
-  applications
+Understand the problem -> choose the right pattern -> implement -> test -> learn
 ```
 
-### 💡 Interests
+## Currently learning
 
-`Backend Development` `Competitive Programming`
+- Production-ready backend development
+- Authentication, authorization, and API security
+- PostgreSQL modeling and Redis-backed caching
+- Testing, CI/CD, Docker, and cloud deployment
+- Scalable system design
 
-`Problem Solving` `Databases` `System Design`
+## Goals
 
-`Open Source`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css&theme=dark" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-
-</div>
-
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-## 📚 Currently Learning
-
-```cpp
-learning = {
-
-    "Data Structures & Algorithms"
-    "Competitive Programming" 
-    "Backend Development",
-    "REST APIs",
-    "Databases",
-    "Server-side Programming",
-    "System Design",
-   
-
-};
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎯 Goals
-
-```text
-SHORT TERM
-├── Strengthen DSA
-├── Learn backend deeply
-└── Build real projects
-
-MID TERM
-├── Become a strong software engineer
-├── Master backend, APIs & databases
-└── Build production-ready projects
-
-LONG TERM
-├── Design & build scalable systems
-└── Solve meaningful real-world problems
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Competitive Programming & Problem Solving
-
-I am actively doing **Competitive Programming** to sharpen my DSA, algorithmic thinking, and ability to solve problems under constraints.
-
-I practice on platforms like **Codeforces, CodeChef, and LeetCode**, focusing on learning patterns and improving consistently rather than chasing numbers.
-
-```cpp
-while (alive) {
-
-    solve_problem();
-
-    if (wrong_answer)
-        understand_why();
-
-    if (concept_not_clear)
-        learn_again();
-
-    improve();
-}
-```
-
-I practice **Data Structures & Algorithms** through competitive programming to improve my problem-solving ability and programming fundamentals.
-
----
-
-## 🌐 Find Me Around the Web
-
-<div align="center">
-
-<a href="https://github.com/N1kh1lKumar">
-<img src="https://img.shields.io/badge/GitHub-N1kh1lKumar-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/n1kh1lkumar/">
-<img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/N1kh1lKumar/">
-<img src="https://img.shields.io/badge/LeetCode-N1kh1lKumar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://codolio.com/profile/N1kh1lkumar">
-<img src="https://img.shields.io/badge/Codolio-NikhilKumar-7c3aed?style=for-the-badge" />
-</a>
-
-<a href="https://codeforces.com/profile/nikhilkumaraf309">
-<img src="https://img.shields.io/badge/Codeforces-nikhilkumaraf309-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/users/n1kh1lkumar">
-<img src="https://img.shields.io/badge/CodeChef-n1kh1lkumar-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-</div>
+- Build and deploy reliable backend applications
+- Contribute to open source and collaborate on real products
+- Become a strong software engineer with depth in backend systems
 
 ---
 
 <div align="center">
-**Thanks for visiting my profile! ⭐**
+
+Thanks for visiting. Feel free to explore the repositories and connect with me.
 
 </div>
