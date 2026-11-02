@@ -41,7 +41,7 @@ More projects: [CGPA Calculator](https://github.com/N1kh1lKumar/CGPA-calculator)
 
 ## Technical toolkit
 
-**Languages:** C, C++, Java, JavaScript, HTML, CSS<br>
+**Languages:**  C++, Java, JavaScript, HTML, CSS<br>
 **Backend and data:** Spring Boot, REST APIs, PostgreSQL, MySQL<br>
 **Foundations:** Data structures, algorithms, OOP, file handling, database design<br>
 **Tools:** Git, GitHub, Linux, VS Code, Postman, Docker
